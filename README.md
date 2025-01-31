@@ -1,1 +1,1 @@
-# aruinoLib
+# DS1302
